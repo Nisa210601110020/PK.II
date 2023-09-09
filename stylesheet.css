@@ -1,0 +1,30 @@
+h1 {
+  color:#808080;
+  font-size:30px;
+  backround-color:#7FFFD4;
+  height:88px;
+  width:200px;
+}
+img {
+  height:50px;
+  width:70px:
+}
+p {
+  color:#7FFFD4;
+}
+li {
+  color:#7FFFD4;
+}
+.selected {
+  color:#7FFFD4;
+}
+li {
+  list-style:none;
+  float:left;
+  padding:33px 30px;
+}
+.header-logo {
+  font-size:36px;
+  float:left;
+  padding:20px 40px;
+}
